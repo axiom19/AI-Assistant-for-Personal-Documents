@@ -26,6 +26,7 @@ This implementation is contained in `Chatbot_personal_data.ipynb` and uses:
 - Implements document chunking and embedding using `sentence-transformers/all-MiniLM-L6-v2`
 - Creates a simple UI with Gradio for file upload and question answering
 
+
 ### 2. Python Script Implementation
 
 This implementation is split across multiple Python files and uses:
@@ -69,6 +70,10 @@ cd ai-assistant-personal-data
 1. Upload a PDF document containing personal data
 2. Ask questions about the content of the document
 3. Receive AI-generated answers based on the document's content
+
+#### Demo
+![Demo Screenshot](https://github.com/axiom19/AI-Assistant-for-Personal-Documents/blob/main/demos/demo.png))
+[Watch the Demo Video](https://github.com/axiom19/AI-Assistant-for-Personal-Documents/blob/main/demos/Demo%20vid.mov)
 
 ## Contributing
 

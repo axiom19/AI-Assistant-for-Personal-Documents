@@ -72,6 +72,7 @@ cd ai-assistant-personal-data
 3. Receive AI-generated answers based on the document's content
 
 #### Demo
+In this Demo, I uploaded my resume to the app.
 ![Demo Screenshot](https://github.com/axiom19/AI-Assistant-for-Personal-Documents/blob/main/demos/demo.png)
 [Watch the Demo Video](https://github.com/axiom19/AI-Assistant-for-Personal-Documents/blob/main/demos/Demo%20vid.mov)
 
